@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "title": "The Enchanted Forest",
+        "author": "Alice Green",
+        "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
+        "post_data": "2024-10-20",
+        "reading_time": "2 ",
+        "hashtags": ["#Fantasy", "#Adventure", "#Magic"]
+    },
+    {
+        "id": 2,
+        "cover": "https://cms.imgworlds.com/assets/a5366382-0c26-4726-9873-45d69d24f819.jpg?key=home-gallery",
+        "title": "Journey Through Time",
+        "author": "Bob Smith",
+        "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+        "post_data": "2024-10-19",
+        "reading_time": "3",
+        "hashtags": ["#SciFi", "#TimeTravel", "#Adventure"]
+    },
+    {
+        "id": 3,
+        "cover": "https://cms.imgworlds.com/assets/9558de9d-1e49-437e-aa7b-b8bd4d999b00.jpg?key=home-gallery",
+        "title": "Culinary Delights",
+        "author": "Carla Blue",
+        "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+        "post_data": "2024-10-18",
+        "reading_time": "1.5 ",
+        "hashtags": ["#Cooking", "#Food", "#Recipes"]
+    },
+    {
+        "id": 4,
+        "cover": "https://www.kraftwerk.at/app/uploads/fly-images/962/reference-img-worlds-of-adventure-park-4-1920x9999.jpg",
+        "title": "Mysteries of the Ocean",
+        "author": "David White",
+        "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
+        "post_data": "2024-10-17",
+        "reading_time": "2.5 ",
+        "hashtags": ["#Nature", "#Ocean", "#Mystery"]
+    },
+    {
+        "id": 5,
+        "cover": "https://cms.imgworlds.com/assets/473cfc50-242c-46f8-80be-68b867e28919.jpg?key=home-gallery",
+        "title": "Tech Innovations",
+        "author": "Ella Brown",
+        "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+        "post_data": "2024-10-16",
+        "reading_time": "4 ",
+        "hashtags": ["#Technology", "#Innovation", "#Future"]
+    }
+]
